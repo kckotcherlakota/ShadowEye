@@ -1,5 +1,5 @@
-# SecureNote
-### A BlockChain Based Textual Content Sharing Application
+# ShadowEye
+### A Decentrilized Contact Tracing Application
 
 ### Abstract::
 
